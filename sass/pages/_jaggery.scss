@@ -1,0 +1,10 @@
+.jaggery-language-inner-wrapper{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr !important;
+    @media(max-width: 991px){
+        grid-template-columns: 1fr 1fr !important;
+    }
+    @media(max-width: 575px){
+        grid-template-columns: 1fr !important;
+    }
+}

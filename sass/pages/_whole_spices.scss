@@ -1,0 +1,9 @@
+.whole-process-title{
+    max-width: 280px;
+}
+.whole-range-title{
+    max-width: 366px;
+    @media(max-width: 418px){
+        max-width: 193px;
+    }
+}

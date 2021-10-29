@@ -1,0 +1,12 @@
+.spice-process-title{
+    max-width: 272px;
+    @media(max-width: 325px){
+        max-width: 162px;
+    }
+}
+.spice-range-title{
+    max-width: 359px;
+    @media(max-width: 411px){
+        max-width: 193px;
+    }
+}

@@ -1,0 +1,25 @@
+.blackpepper-process-title{
+    max-width: 477px;
+    @media(max-width: 528px){
+        max-width: 269px;
+    }
+}
+
+.blackpepper-inner-wrapper{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr !important;
+    grid-gap: 15px;
+    @media(max-width: 991px){
+        grid-template-columns: 1fr 1fr !important;
+    }
+    @media(max-width: 575px){
+        grid-template-columns: 1fr !important;
+    }
+}
+
+.black-language-title{
+    max-width: 620px;
+    @media(max-width: 767px){
+        max-width: 220px;
+    }
+}
