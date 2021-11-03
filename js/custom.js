@@ -464,7 +464,6 @@ $(document).ready(function () {
 
     // Menu 
     $("#sidebarCollapse").on("click", function () {
-        console.log("okay");
         // $("#sidebar").toggleClass("mactive");
         if ($("#sidebar").css("left") == "-250px") {
             $("#sidebar").css({

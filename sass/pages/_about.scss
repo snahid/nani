@@ -220,7 +220,7 @@
 
 .history-wrapper {
     .history {
-        background-image: url(../../assets/images/sustainibilitybg.jpg);
+        background-image: url(../assets/images/sustainibilitybg.jpg);
         padding: 70px;
 
         @media(max-width: 1199px) {
@@ -432,7 +432,8 @@
             .core-box {
                 padding: 0 50px 30px 50px;
                 min-height: 305px;
-                @media(max-width: 991px){
+
+                @media(max-width: 991px) {
                     margin-bottom: 100px;
                 }
 
