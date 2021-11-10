@@ -1,0 +1,170 @@
+.chana-inner-wrapper {
+    background-image: url('../assets/images/chanabanner.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 927px;
+    position: relative;
+
+    @media(max-width: 1199px) {
+        min-height: 720px;
+    }
+
+    @media(max-width: 991px) {
+        min-height: 550px;
+    }
+
+    @media(max-width: 767px) {
+        min-height: 490px;
+    }
+
+    .bottom-wrapper {
+        position: absolute;
+        left: 0;
+        bottom: 0;
+        content: "";
+
+        h1 {
+            color: #fff;
+            text-transform: uppercase;
+            font-weight: bold;
+            letter-spacing: 4px;
+            padding-left: 50px;
+            font-family: burford;
+            word-break: break-word;
+            
+            font-size: 80px;
+            margin-bottom: -29px;
+            @media(max-width: 1399px){
+                font-size: 50px;
+                margin-bottom: -19px;
+            }
+
+            @media(max-width: 1199px) {
+                padding-left: 40px;
+                font-size: 42px;
+                margin-bottom: -14px;
+            }
+
+            @media(max-width: 991px) {
+                padding-left: 15px;
+            }
+        }
+        .bottom-inner-wrapper {
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+
+            @media(max-width: 767px) {
+                flex-direction: column;
+            }
+
+            .bottom-left {
+                width: 65%;
+                background-color: rgba(0, 0, 0, 0.5);
+
+                @media(max-width: 767px) {
+                    width: 100%;
+                }
+
+                p {
+                    font-size: 16px;
+                    color: #fffffe;
+                    line-height: 28px;
+                    font-weight: 300;
+                    margin-bottom: 0;
+                    padding: 40px 55px 60px 50px;
+
+                    @media(max-width: 1199px) {
+                        padding: 20px 20px 30px 40px;
+                    }
+
+                    @media(max-width: 991px) {
+                        font-size: 14px;
+                        line-height: 22px;
+                        padding: 15px 15px 20px 15px;
+                    }
+                }
+            }
+
+            .bottom-right {
+                position: relative;
+                width: 35%;
+                background-color: rgba(135, 142, 62, 0.7);
+
+                @media(max-width: 767px) {
+                    width: 100%;
+                    padding: 23px 0;
+                }
+
+                a {
+                    text-transform: uppercase;
+                    position: absolute;
+                    left: 50%;
+                    top: 50%;
+                    content: "";
+                    transform: translate(-50%, -50%);
+                    background-color: #4f5411;
+                    text-decoration: none;
+                    color: #fff;
+                    font-weight: 500;
+                    font-size: 20px;
+                    padding: 8px 20px;
+                    box-shadow: 0px 4px 7px 0px rgba(0, 0, 0, 0.3);
+                    -webkit-box-shadow: 0px 4px 7px 0px rgba(0, 0, 0, 0.3);
+                    -moz-box-shadow: 0px 4px 7px 0px rgba(0, 0, 0, 0.3);
+                    transition: 0.2s ease-in-out;
+                    border-radius: 1px;
+
+                    @media(max-width: 1199px) {
+                        padding: 8px 15px;
+                    }
+
+                    @media(max-width: 991px) {
+                        width: 165px;
+                    }
+
+                    @media(max-width: 767px) {
+                        width: 100%;
+                        text-align: center;
+                    }
+
+                    &:hover {
+                        margin-top: -2px;
+                        color: #fffffe;
+                    }
+                }
+            }
+        }
+    }
+}
+
+.chana-range-title{
+    padding-top: 50px;
+    font-size: 24px;
+    color: #000000;
+    text-transform: uppercase;
+    position: relative;
+    max-width: 281px;
+    padding-bottom: 12px;
+
+    &::before {
+        position: absolute;
+        width: 88%;
+        height: 4px;
+        background-color: #c32629;
+        content: "";
+        left: 0;
+        bottom: 0;
+    }
+
+    &::after {
+        position: absolute;
+        width: 10%;
+        height: 4px;
+        background-color: #ffd409;
+        content: "";
+        right: 0;
+        bottom: 0;
+    }
+}

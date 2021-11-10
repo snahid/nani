@@ -26,18 +26,26 @@
         width: 100%;
 
         h1 {
-            color: #070201;
-            font-size: 42px;
+            color: #000000;
             text-transform: uppercase;
             font-weight: bold;
             letter-spacing: 4px;
-            margin-bottom: -10px;
             padding-left: 50px;
             font-family: burford;
             word-break: break-word;
 
+            font-size: 80px;
+            margin-bottom: -30px;
+
+            @media(max-width: 1399px) {
+                font-size: 50px;
+                margin-bottom: -19px;
+            }
+
             @media(max-width: 1199px) {
                 padding-left: 40px;
+                font-size: 42px;
+                margin-bottom: -15px;
             }
 
             @media(max-width: 991px) {
@@ -116,41 +124,16 @@
 
                 @media(max-width: 767px) {
                     width: 100%;
-                    padding: 23px 0;
+                    padding: 70px 0;
                 }
 
                 a {
-                    text-transform: uppercase;
                     position: absolute;
                     left: 50%;
                     top: 50%;
                     content: "";
                     transform: translate(-50%, -50%);
-                    background-color: #87070a;
-                    text-decoration: none;
-                    color: #fff;
-                    font-weight: 500;
-                    font-size: 20px;
-                    padding: 8px 20px;
-                    box-shadow: 0px 4px 7px 0px rgba(0, 0, 0, 0.3);
-                    -webkit-box-shadow: 0px 4px 7px 0px rgba(0, 0, 0, 0.3);
-                    -moz-box-shadow: 0px 4px 7px 0px rgba(0, 0, 0, 0.3);
                     transition: 0.2s ease-in-out;
-                    border-radius: 1px;
-
-                    @media(max-width: 1199px) {
-                        padding: 8px 15px;
-                    }
-
-                    @media(max-width: 991px) {
-                        width: 165px;
-                    }
-
-                    @media(max-width: 767px) {
-                        width: 100%;
-                        text-align: center;
-                    }
-
                     &:hover {
                         margin-top: -2px;
                         color: #fffffe;
@@ -187,8 +170,16 @@
             }
 
             img {
-                max-width: 300px;
-                margin-bottom: 40px;
+                margin-bottom: 30px;
+
+                @media(max-width: 575px) {
+                    max-width: 300px;
+                }
+
+                @media(max-width: 475px) {
+                    width: 100%;
+                    max-width: 100%;
+                }
             }
 
             p {
@@ -252,7 +243,7 @@
                 }
 
                 img {
-                    max-width: 190px;
+                    max-width: 220px;
                     margin-bottom: 16px;
                 }
 
@@ -297,7 +288,6 @@
     }
 }
 
-
 .vision-wrapper {
     .vision-mission-inner {
         display: flex;
@@ -332,15 +322,20 @@
             }
 
             .vision-title {
-                font-size: 24px;
+                font-size: 42px;
                 color: #000000;
                 text-transform: uppercase;
                 position: relative;
-                max-width: 133px;
-                padding-bottom: 12px;
+                max-width: 195px;
+                // padding-bottom: 12px;
                 font-weight: bold;
                 margin-left: auto;
                 margin-right: auto;
+                font-family: burford;
+                @media(max-width: 575px) {
+                    font-size: 36px;
+                    max-width: 168px;
+                }
 
                 &::before {
                     position: absolute;
@@ -364,15 +359,20 @@
             }
 
             .mission-title {
-                font-size: 24px;
+                font-size: 42px;
                 color: #000000;
                 text-transform: uppercase;
                 position: relative;
-                max-width: 152px;
-                padding-bottom: 12px;
+                max-width: 218px;
+                // padding-bottom: 12px;
                 font-weight: bold;
                 margin-left: auto;
                 margin-right: auto;
+                font-family: burford;
+                @media(max-width: 575px) {
+                    font-size: 36px;
+                    max-width: 188px;
+                }
 
                 &::before {
                     position: absolute;
@@ -586,20 +586,33 @@
 
 
 .food-taste-title {
-    font-size: 24px;
+    font-weight: bold;
+    font-size: 48px;
     color: #000000;
     text-transform: uppercase;
     padding-bottom: 12px;
     margin-bottom: 0;
+    font-family: burford;
+    letter-spacing: -2px;
+
+    @media(max-width: 575px) {
+        font-size: 36px;
+    }
 }
 
 .history-title {
-    font-size: 24px;
+    font-size: 48px;
     color: #000000;
     text-transform: uppercase;
     position: relative;
-    max-width: 100px;
-    padding-bottom: 12px;
+    max-width: 160px;
+    // padding-bottom: 12px;
+    font-family: burford;
+    font-weight: bold;
+    @media(max-width: 575px) {
+        font-size: 36px;
+        max-width: 120px;
+    }
 
     &::before {
         position: absolute;
@@ -623,15 +636,21 @@
 }
 
 .core-title {
-    font-size: 24px;
+    font-size: 48px;
     color: #000000;
     text-transform: uppercase;
     position: relative;
-    max-width: 155px;
-    padding-bottom: 12px;
+    max-width: 260px;
+    // padding-bottom: 12px;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 130px;
+    font-family: burford;
+    font-weight: bold;
+    @media(max-width: 575px){
+        font-size: 36px;
+        max-width: 195px;
+    }
 
     &::before {
         position: absolute;
