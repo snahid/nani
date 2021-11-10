@@ -28,49 +28,58 @@
                 <h2 class="internation-title">international Clients</h2>
                 <div class="clients">
                     <div class="clients-box">
-                        <img src="./assets/images/Untitled-1_0023_Layer-5.jpg" alt="">
+                        <img src="./assets/images/InternationalClients/Aib-foods.jpg" alt="">
                     </div>
                     <div class="clients-box">
-                        <img src="./assets/images/Untitled-1_0024_Layer-4.jpg" alt="">
+                        <img src="./assets/images/InternationalClients/alibaba.jpg" alt="">
                     </div>
                     <div class="clients-box">
-                        <img src="./assets/images/Untitled-1_0025_Layer-3.jpg" alt="">
+                        <img src="./assets/images/InternationalClients/Arcadia-Food.jpg" alt="">
                     </div>
                     <div class="clients-box">
-                        <img src="./assets/images/Untitled-1_0022_Layer-6.jpg" alt="">
+                        <img src="./assets/images/InternationalClients/CATZ-International.jpg" alt="">
                     </div>
                     <div class="clients-box">
-                        <img src="./assets/images/Untitled-1_0021_Layer-7.jpg" alt="">
+                        <img src="./assets/images/InternationalClients/East-End.jpg" alt="">
                     </div>
                     <div class="clients-box">
-                        <img src="./assets/images/Untitled-1_0020_Layer-8.jpg" alt="">
+                        <img src="./assets/images/InternationalClients/easyday.jpg" alt="">
                     </div>
                     <div class="clients-box">
-                        <img src="./assets/images/Untitled-1_0019_Layer-9.jpg" alt="">
+                        <img src="./assets/images/InternationalClients/Euro-foods.jpg" alt="">
                     </div>
                     <div class="clients-box">
-                        <img src="./assets/images/Untitled-1_0018_Layer-10.jpg" alt="">
+                        <img src="./assets/images/InternationalClients/Frutarom.jpg" alt="">
                     </div>
                     <div class="clients-box">
-                        <img src="./assets/images/Untitled-1_0017_Layer-11.jpg" alt="">
+                        <img src="./assets/images/InternationalClients/Gof.jpg" alt="">
                     </div>
                     <div class="clients-box">
-                        <img src="./assets/images/Untitled-1_0016_Layer-12.jpg" alt="">
+                        <img src="./assets/images/InternationalClients/Husarich.jpg" alt="">
                     </div>
                     <div class="clients-box">
-                        <img src="./assets/images/Untitled-1_0015_Layer-13.jpg" alt="">
+                        <img src="./assets/images/InternationalClients/Indya.jpg" alt="">
                     </div>
                     <div class="clients-box">
-                        <img src="./assets/images/Untitled-1_0014_Layer-14.jpg" alt="">
+                        <img src="./assets/images/InternationalClients/Jaipur.jpg" alt="">
                     </div>
                     <div class="clients-box">
-                        <img src="./assets/images/Untitled-1_0013_Layer-15.jpg" alt="">
+                        <img src="./assets/images/InternationalClients/Natco.jpg" alt="">
                     </div>
                     <div class="clients-box">
-                        <img src="./assets/images/Untitled-1_0012_Layer-16.jpg" alt="">
+                        <img src="./assets/images/InternationalClients/Raja-wholesale.jpg" alt="">
                     </div>
                     <div class="clients-box">
-                        <img src="./assets/images/Untitled-1_0011_Layer-17.jpg" alt="">
+                        <img src="./assets/images/InternationalClients/Shama.jpg" alt="">
+                    </div>
+                    <div class="clients-box">
+                        <img src="./assets/images/InternationalClients/Supreme.jpg" alt="">
+                    </div>
+                    <div class="clients-box">
+                        <img src="./assets/images/InternationalClients/TRS.jpg" alt="">
+                    </div>
+                    <div class="clients-box">
+                        <img src="./assets/images/InternationalClients/Webb-James.jpg" alt="">
                     </div>
                 </div>
             </div>
@@ -82,34 +91,61 @@
                 <h2 class="national-title">National Clients</h2>
                 <div class="clients">
                     <div class="clients-box">
-                        <img src="./assets/images/Untitled-1_0010_Layer-18.jpg" alt="">
+                        <img src="./assets/images/NationalClients/Aachi.jpg" alt="">
                     </div>
                     <div class="clients-box">
-                        <img src="./assets/images/Untitled-1_0009_Layer-19.jpg" alt="">
+                        <img src="./assets/images/NationalClients/AB-Mauri.jpg" alt="">
                     </div>
                     <div class="clients-box">
-                        <img src="./assets/images/Untitled-1_0008_Layer-20.jpg" alt="">
+                        <img src="./assets/images/NationalClients/adani.jpg" alt="">
                     </div>
                     <div class="clients-box">
-                        <img src="./assets/images/Untitled-1_0007_Layer-21.jpg" alt="">
+                        <img src="./assets/images/NationalClients/Asian-Food-Industries.jpg" alt="">
                     </div>
                     <div class="clients-box">
-                        <img src="./assets/images/Untitled-1_0006_Layer-22.jpg" alt="">
+                        <img src="./assets/images/NationalClients/DS-Group.jpg" alt="">
                     </div>
                     <div class="clients-box">
-                        <img src="./assets/images/Untitled-1_0005_Layer-23.jpg" alt="">
+                        <img src="./assets/images/NationalClients/Eastern.jpg" alt="">
                     </div>
                     <div class="clients-box">
-                        <img src="./assets/images/Untitled-1_0004_Layer-24.jpg" alt="">
+                        <img src="./assets/images/NationalClients/Everest.jpg" alt="">
                     </div>
                     <div class="clients-box">
-                        <img src="./assets/images/Untitled-1_0003_Layer-25.jpg" alt="">
+                        <img src="./assets/images/NationalClients/GRB.jpg" alt="">
                     </div>
                     <div class="clients-box">
-                        <img src="./assets/images/Untitled-1_0002_Layer-26.jpg" alt="">
+                        <img src="./assets/images/NationalClients/Haldiram.jpg" alt="">
                     </div>
                     <div class="clients-box">
-                        <img src="./assets/images/Untitled-1_0001_Layer-27.jpg" alt="">
+                        <img src="./assets/images/NationalClients/Intergrow.jpg" alt="">
+                    </div>
+                    <div class="clients-box">
+                        <img src="./assets/images/NationalClients/ITC.jpg" alt="">
+                    </div>
+                    <div class="clients-box">
+                        <img src="./assets/images/NationalClients/MDH.jpg" alt="">
+                    </div>
+                    <div class="clients-box">
+                        <img src="./assets/images/NationalClients/Nedspice.jpg" alt="">
+                    </div>
+                    <div class="clients-box">
+                        <img src="./assets/images/NationalClients/Olam.jpg" alt="">
+                    </div>
+                    <div class="clients-box">
+                        <img src="./assets/images/NationalClients/Plan-lipids.jpg" alt="">
+                    </div>
+                    <div class="clients-box">
+                        <img src="./assets/images/NationalClients/Spar.jpg" alt="">
+                    </div>
+                    <div class="clients-box">
+                        <img src="./assets/images/NationalClients/Synthite.jpg" alt="">
+                    </div>
+                    <div class="clients-box">
+                        <img src="./assets/images/NationalClients/tata.jpg" alt="">
+                    </div>
+                    <div class="clients-box">
+                        <img src="./assets/images/NationalClients/Walmart.jpg" alt="">
                     </div>
                 </div>
             </div>
@@ -121,34 +157,34 @@
                 <h2 class="retaill-title">Retail Clients</h2>
                 <div class="clients">
                     <div class="clients-box">
-                        <img src="./assets/images/Untitled-1_0010_Layer-18.jpg" alt="">
+                        <img src="./assets/images/RetailClients/Amazon-Vedaka.jpg" alt="">
                     </div>
                     <div class="clients-box">
-                        <img src="./assets/images/Untitled-1_0009_Layer-19.jpg" alt="">
+                        <img src="./assets/images/RetailClients/Catch.jpg" alt="">
                     </div>
                     <div class="clients-box">
-                        <img src="./assets/images/Untitled-1_0008_Layer-20.jpg" alt="">
+                        <img src="./assets/images/RetailClients/D'Mart.jpg" alt="">
                     </div>
                     <div class="clients-box">
-                        <img src="./assets/images/Untitled-1_0007_Layer-21.jpg" alt="">
+                        <img src="./assets/images/RetailClients/Flipkart.jpg" alt="">
                     </div>
                     <div class="clients-box">
-                        <img src="./assets/images/Untitled-1_0006_Layer-22.jpg" alt="">
+                        <img src="./assets/images/RetailClients/Metro.jpg" alt="">
                     </div>
                     <div class="clients-box">
-                        <img src="./assets/images/Untitled-1_0005_Layer-23.jpg" alt="">
+                        <img src="./assets/images/RetailClients/Mother's-choice.jpg" alt="">
                     </div>
                     <div class="clients-box">
-                        <img src="./assets/images/Untitled-1_0004_Layer-24.jpg" alt="">
+                        <img src="./assets/images/RetailClients/Reliance.jpg" alt="">
                     </div>
                     <div class="clients-box">
-                        <img src="./assets/images/Untitled-1_0003_Layer-25.jpg" alt="">
+                        <img src="./assets/images/RetailClients/Spar.jpg" alt="">
                     </div>
                     <div class="clients-box">
-                        <img src="./assets/images/Untitled-1_0002_Layer-26.jpg" alt="">
+                        <img src="./assets/images/RetailClients/Star-Bazaar.jpg" alt="">
                     </div>
                     <div class="clients-box">
-                        <img src="./assets/images/Untitled-1_0001_Layer-27.jpg" alt="">
+                        <img src="./assets/images/RetailClients/Zomato.jpg" alt="">
                     </div>
                 </div>
             </div>

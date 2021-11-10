@@ -80,7 +80,17 @@
 
         <ul class="list-unstyled components">
           <li><a href="./index.php">Home</a></li>
-          <li><a href="./about.php">About</a></li>
+          <li>
+              <a  href="#aboutSubmenu"
+              data-toggle="collapse"
+              aria-expanded="false"
+              class="dropdown-toggle">
+              About</a>
+            <ul class="collapse list-unstyled" id="aboutSubmenu">
+              <li><a href="./about.php">About</a></li>
+              <li><a href="./brand.php">Our Brands</a></li>
+            </ul>
+          </li>
           <li>
             <a
               href="#pageSubmenu"
@@ -115,10 +125,35 @@
             <li><a href="./miscellaneous.php">Miscellaneous products</a></li>   
             </ul>
           </li>
-          <li class="linkactive"><a href="./services.php">Services</a></li>
+          <li>
+            <a href="#serviceSubmenu"
+              data-toggle="collapse"
+              aria-expanded="false"
+              class="dropdown-toggle"
+            >Services
+          </a>
+          <ul class="collapse list-unstyled" id="serviceSubmenu">
+            <li><a href="./services.php">Services</a></li>
+            <li><a href="./services.php#turmericExport">Turmeric Export</a></li>
+            <li><a href="./services.php#spicefoodExport">Spice & Food Export</a></li>
+            <li><a href="./services.php#spiceprocessingBlendings">Spice Processing Blending</a></li>
+            <li><a href="./services.php#servicePrivate">Private Label Packaging</a></li>
+          </ul>
+          </li>
           <li><a href="./infrastructure.php">Infrastructure</a></li>
           <li><a href="./sustainability.php">Sustainability</a></li>
-          <li><a href="./quality_policy.php">Quality Policy</a></li>
+          <li>
+            <a href="#qualitySubmenu"
+              data-toggle="collapse"
+              aria-expanded="false"
+              class="dropdown-toggle">
+            Quality Policy
+          </a>
+          <ul class="collapse list-unstyled" id="qualitySubmenu">
+            <li><a href="./quality_policy.php">Quality Policy</a></li>
+            <li><a href="./certificate.php">Certificates</a></li>
+          </ul>
+        </li>
           <li><a href="./clients.php">Clients</a></li>
           <li><a href="./certificate.php">Certificates</a></li>
           <li><a href="./contact.php">Contact</a></li>
