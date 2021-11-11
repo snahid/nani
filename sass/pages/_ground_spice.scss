@@ -33,8 +33,8 @@
             font-family: burford;
             word-break: break-word;
             
-            font-size: 80px;
-            margin-bottom: -29px;
+            font-size: 72px;
+            margin-bottom: -26px;
             @media(max-width: 1399px){
                 font-size: 50px;
                 margin-bottom: -19px;
@@ -43,7 +43,7 @@
             @media(max-width: 1199px) {
                 padding-left: 40px;
                 font-size: 42px;
-                margin-bottom: -14px;
+                margin-bottom: -15px;
             }
 
             @media(max-width: 991px) {
@@ -95,41 +95,19 @@
 
                 @media(max-width: 767px) {
                     width: 100%;
-                    padding: 23px 0;
+                    padding: 70px 0;
                 }
 
                 a {
-                    text-transform: uppercase;
                     position: absolute;
                     left: 50%;
                     top: 50%;
                     content: "";
                     transform: translate(-50%, -50%);
-                    background-color: #69100f;
-                    text-decoration: none;
-                    color: #fff;
-                    font-weight: 500;
-                    font-size: 20px;
-                    padding: 8px 20px;
-                    box-shadow: 0px 4px 7px 0px rgba(0, 0, 0, 0.3);
-                    -webkit-box-shadow: 0px 4px 7px 0px rgba(0, 0, 0, 0.3);
-                    -moz-box-shadow: 0px 4px 7px 0px rgba(0, 0, 0, 0.3);
+                   
                     transition: 0.2s ease-in-out;
-                    border-radius: 1px;
-
-                    @media(max-width: 1199px) {
-                        padding: 8px 15px;
-                    }
-
-                    @media(max-width: 991px) {
-                        width: 165px;
-                    }
-
-                    @media(max-width: 767px) {
-                        width: 100%;
-                        text-align: center;
-                    }
-
+                 
+                   
                     &:hover {
                         margin-top: -2px;
                         color: #fffffe;
@@ -143,12 +121,15 @@
 
 
 .ground-process-title{
-    max-width: 280px;
+    max-width: 347px;
+    @media(max-width: 405px){
+        max-width: 210px;
+    }
 }
 
 .ground-range-title{
-    max-width: 367px;
-    @media(max-width: 420px){
-        max-width: 193px;
+    max-width: 455px;
+    @media(max-width: 515px){
+        max-width: 235px;
     }
 }

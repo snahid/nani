@@ -18,7 +18,7 @@
                 </p>
               </div>
               <div class="bottom-right">
-                <a href="#">Enquire Now</a>
+                <a href="#"><img src="./assets/images/delicacy-enquire-now.png" alt=""></a>
               </div>
             </div>
           </div>

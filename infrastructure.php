@@ -17,7 +17,7 @@
                 </h4>
               </div>
               <div class="bottom-right">
-                <a href="#">Enquire Now</a>
+                <a href="#"><img src="./assets/images/infrastructure-enquire-now.png" alt=""></a>
               </div>
             </div>
           </div>
@@ -82,7 +82,7 @@
             and design a package, suited to your convenience.
           </p>
           <div class="endtoend-enquire-btn">
-            <a href="#">Enquire Now</a>
+            <a href="#"><img src="./assets/images/about-enquire-now.png" alt=""></a>
           </div>
         </div>
       </div>

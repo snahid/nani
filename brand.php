@@ -52,7 +52,7 @@
                     <p>In publishing graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual from a document or a typeface. In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface.</p>
 
                     <div class="online-btn-wrapper">
-                        <a href="#"></a>
+                        <a href="#"><img src="./assets/images/brands-page-shop-online.png" alt=""></a>
                     </div>
                 </div>
             </div>

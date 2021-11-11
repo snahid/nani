@@ -21,7 +21,7 @@
                 </p>
               </div>
               <div class="bottom-right">
-                <a href="#">Enquire Now</a>
+                <a href="#"><img src="./assets/images/enquire-now.png" alt=""></a>
               </div>
             </div>
           </div>
@@ -130,7 +130,7 @@
     <div class="language-wrapper">
       <div class="container">
         <div class="languageinner">
-          <h2 class="language-title">Coconut In other Languages</h2>
+          <h2 class="language-title coconut-language-title">Coconut In other Languages</h2>
           <div class="language-inner-wrapper">
             <div class="language">
               <h4>English: <span>Coconut</span></h4>

@@ -34,8 +34,8 @@
             font-family: burford;
             word-break: break-word;
 
-            font-size: 80px;
-            margin-bottom: -30px;
+            font-size: 72px;
+            margin-bottom: -26px;
 
             @media(max-width: 1399px) {
                 font-size: 50px;
@@ -145,71 +145,86 @@
     }
 }
 
-.brands-section{
-    .brands-inner{
+.brands-section {
+    .brands-inner {
         background-color: #fff;
         padding: 70px 50px;
-        @media(max-width: 1199px){
+
+        @media(max-width: 1199px) {
             padding: 70px 40px;
         }
-        @media(max-width: 1199px){
+
+        @media(max-width: 1199px) {
             padding: 50px 15px;
         }
 
-        .brands-name{
+        .brands-name {
             max-width: 95%;
             margin: 0 auto;
             display: grid;
             grid-template-columns: repeat(6, 1fr);
-            @media(max-width: 991px){
+
+            @media(max-width: 991px) {
                 grid-template-columns: repeat(3, 1fr);
                 text-align: center;
                 width: 100%;
             }
-            a{
-               img{
-                   @media(max-width: 1199px){
-                    width: 80%;
-                   }
-                   @media(max-width: 991px){
-                    width: 60%;
-                   }
-                   @media(max-width: 767px){
-                    width: 70%;
-                   }
-               }
+
+            a {
+                img {
+                    @media(max-width: 1199px) {
+                        width: 80%;
+                    }
+
+                    @media(max-width: 991px) {
+                        width: 60%;
+                    }
+
+                    @media(max-width: 767px) {
+                        width: 70%;
+                    }
+                }
             }
         }
     }
 }
 
-.shop-online-section{
-    .shop-online-inner{
+.shop-online-section {
+    .shop-online-inner {
+        position: relative;
+        box-shadow: 0px 5px 5px 0px rgb(0 0 0 / 20%);
+        -webkit-box-shadow: 0px 5px 5px 0px rgb(0 0 0 / 20%);
+        -moz-box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.2);
         display: flex;
         flex-direction: row;
         justify-content: space-between;
         padding: 70px 100px;
         margin: 0 auto;
         background-image: url('../assets/images/sustainibilitybg.jpg');
-        @media(max-width: 1399px){
+
+        @media(max-width: 1399px) {
             padding: 70px 70px;
         }
-        @media(max-width: 1199px){
+
+        @media(max-width: 1199px) {
             padding: 70px 50px;
         }
-        @media(max-width: 991px){
+
+        @media(max-width: 991px) {
             flex-direction: column;
             justify-content: center;
             padding: 70px 40px;
         }
-        @media(max-width: 767px){
+
+        @media(max-width: 767px) {
             padding: 50px 15px;
         }
 
-        .online-left{
+        .online-left {
             width: 40%;
             padding-top: 50px;
-            @media(max-width: 991px){
+
+            @media(max-width: 991px) {
                 width: 70%;
                 text-align: center;
                 margin-bottom: 50px;
@@ -217,52 +232,77 @@
                 margin-left: auto;
                 margin-right: auto;
             }
-            @media(max-width: 575px){
+
+            @media(max-width: 575px) {
                 width: 100%;
             }
-            img{
+
+            img {
                 width: 95%;
-                @media(max-width: 450px){
+
+                @media(max-width: 450px) {
                     width: 100%;
                 }
             }
         }
-        .online-right{
+
+        .online-right {
             width: 40%;
-            @media(max-width: 1399px){
+
+            @media(max-width: 1399px) {
                 width: 45%;
             }
-            @media(max-width: 1199px){
+
+            @media(max-width: 1199px) {
                 width: 52%;
             }
-            @media(max-width: 991px){
+
+            @media(max-width: 991px) {
                 width: 100%;
             }
-            p{
+
+            p {
                 line-height: 28px;
-                @media(max-width: 991px){
+
+                @media(max-width: 991px) {
                     line-height: 22px;
+                }
+            }
+            .online-btn-wrapper{
+                margin-top: 50px;
+                a{
+                    img{
+                        max-width: 258px;
+                        transition: all 0.1s ease-in-out;
+                    }
+                    &:hover{
+                        img{
+                            transform: translateY(-3px);
+                        }
+                        
+                    }
                 }
             }
         }
     }
 }
 
-.brand-enquire{
+.brand-enquire {
     padding-top: 70px;
 }
 
 
 .brands-title {
-    font-size: 48px;
+    font-size: 36px;
     color: #000000;
     text-transform: uppercase;
     position: relative;
-    max-width: 245px;
+    max-width: 182px;
     margin-bottom: 50px;
     font-family: burford;
     font-weight: bold;
-    @media(max-width: 575px){
+
+    @media(max-width: 575px) {
         font-size: 36px;
         max-width: 182px;
     }
@@ -287,16 +327,18 @@
         bottom: 0;
     }
 }
+
 .online-title {
-    font-size: 48px;
+    font-size: 36px;
     color: #000000;
     text-transform: uppercase;
     position: relative;
-    max-width: 248px;
+    max-width: 188px;
     margin-bottom: 50px;
     font-family: burford;
     font-weight: bold;
-    @media(max-width: 575px){
+
+    @media(max-width: 575px) {
         font-size: 36px;
         max-width: 188px;
     }

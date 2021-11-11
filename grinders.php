@@ -15,7 +15,7 @@
                 </p>
               </div>
               <div class="bottom-right">
-                <a href="#">Enquire Now</a>
+                <a href="#"><img src="./assets/images/grinder-enquire-now.png" alt=""></a>
               </div>
             </div>
           </div>
@@ -110,7 +110,7 @@
  <div class="product-range-wrapper">
   <div class="container">
     <div class="product-range">
-      <h2 class="range-title">Grinders Product Range</h2>
+      <h2 class="range-title grinder-range-title">Grinders Product Range</h2>
       <div class="product-range-inner">
           <div class="product-range-left">
               <ul>

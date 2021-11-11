@@ -19,7 +19,7 @@
                 </p>
               </div>
               <div class="bottom-right">
-                <a href="#">Enquire Now</a>
+                <a href="#"><img src="./assets/images/contact-enqure-now.png" alt=""></a>
               </div>
             </div>
           </div>
@@ -150,7 +150,7 @@
               <div class="schedule-mobile">
                 <img src="./assets/images/mobile-image.jpg" alt="" />
                 <h3>Schedule<br />Your<br />Discovery<br />Call</h3>
-                <a href="#">Schedule now</a>
+                <a href="https://calendly.com/naniagrofood/nani-agro-food" target="_blank">Schedule now</a>
               </div>
             </div>
           </div>

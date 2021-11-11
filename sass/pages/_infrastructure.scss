@@ -34,8 +34,8 @@
             font-family: burford;
             word-break: break-word;
             
-            font-size: 80px;
-            margin-bottom: -29px;
+            font-size: 72px;
+            margin-bottom: -26px;
             @media(max-width: 1399px){
                 font-size: 50px;
                 margin-bottom: -19px;
@@ -44,7 +44,7 @@
             @media(max-width: 1199px) {
                 padding-left: 40px;
                 font-size: 42px;
-                margin-bottom: -14px;
+                margin-bottom: -15px;
             }
 
             @media(max-width: 991px) {
@@ -119,40 +119,20 @@
 
                 @media(max-width: 767px) {
                     width: 100%;
-                    padding: 23px 0;
+                    padding: 70px 0;
                 }
 
                 a {
-                    text-transform: uppercase;
+                   
                     position: absolute;
                     left: 50%;
                     top: 50%;
                     content: "";
                     transform: translate(-50%, -50%);
-                    background-color: #2a3726;
-                    text-decoration: none;
-                    color: #fff;
-                    font-weight: 500;
-                    font-size: 20px;
-                    padding: 8px 20px;
-                    box-shadow: 0px 4px 7px 0px rgba(0, 0, 0, 0.3);
-                    -webkit-box-shadow: 0px 4px 7px 0px rgba(0, 0, 0, 0.3);
-                    -moz-box-shadow: 0px 4px 7px 0px rgba(0, 0, 0, 0.3);
+                   
                     transition: 0.2s ease-in-out;
-                    border-radius: 1px;
-
-                    @media(max-width: 1199px) {
-                        padding: 8px 15px;
-                    }
-
-                    @media(max-width: 991px) {
-                        width: 165px;
-                    }
-
-                    @media(max-width: 767px) {
-                        width: 100%;
-                        text-align: center;
-                    }
+                   
+                  
 
                     &:hover {
                         margin-top: -2px;
@@ -236,23 +216,15 @@
         }
         .endtoend-enquire-btn{
             a{
-                text-decoration: none;
-                border: none;
-                text-transform: uppercase;
-                background-color: #bf2a2e;
-                color: #fff;
-                font-size: 20px;
+                img{
+                    transition: all 0.1s ease-in-out;
+                    max-width: 258px;
+                }
                 transition: all 0.3s ease-in-out;
-                box-shadow: 0px 2px 3px 0px rgba(0, 0, 0, 0.9);
-                -webkit-box-shadow: 0px 2px 3px 0px rgba(0, 0, 0, 0.9);
-                -moz-box-shadow: 0px 2px 3px 0px rgba(0, 0, 0, 0.9);
-                padding: 15px 40px;
-
-
                 &:hover {
-                    box-shadow: 0px 3px 12px 0px rgba(191, 42, 46, 0.6);
-                    -webkit-box-shadow: 0px 3px 12px 0px rgba(191, 42, 46, 0.6);
-                    -moz-box-shadow: 0px 3px 12px 0px rgba(191, 42, 46, 0.6);
+                  img{
+                      transform: translateY(-3px);
+                  }
                 }
             }
         }
@@ -388,14 +360,16 @@
 
 
 .end-to-end-title {
-    font-size: 24px;
+    font-size: 36px;
     color: #000000;
     text-transform: uppercase;
     position: relative;
-    max-width: 450px;
+    max-width: 565px;
     padding-bottom: 12px;
     margin-left: auto;
     margin-right: auto;
+    font-family: burford;
+    font-weight: bold;
 
     &::before {
         position: absolute;
@@ -418,12 +392,17 @@
     }
 }
 .strength-title {
-    font-size: 24px;
+    font-size: 36px;
     color: #000000;
     text-transform: uppercase;
     position: relative;
-    max-width: 265px;
+    max-width: 330px;
     padding-bottom: 12px;
+    font-family: burford;
+    font-weight: bold;
+    @media(max-width: 390px){
+        max-width: 180px;
+    }
 
     &::before {
         position: absolute;
@@ -446,13 +425,15 @@
     }
 }
 .retail-title {
-    font-size: 24px;
+    font-size: 36px;
     color: #000000;
     text-transform: uppercase;
     position: relative;
-    max-width: 216px;
+    max-width: 270px;
     padding-bottom: 12px;
     margin: 0 auto 40px auto;
+    font-family: burford;
+    font-weight: bold;
 
     &::before {
         position: absolute;

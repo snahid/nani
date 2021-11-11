@@ -22,7 +22,7 @@
                 </p>
               </div>
               <div class="bottom-right">
-                <a href="#">Enquire Now</a>
+                <a href="#"><img src="./assets/images/yellow-enquire-now.png" alt=""></a>
               </div>
             </div>
           </div>
@@ -55,7 +55,7 @@
             </p>
 
             <div class="export-enquire-btn">
-              <a href="#">Enquire Now</a>
+              <a href="#"><img src="./assets/images/yellow-enquire-now.png" alt=""></a>
             </div>
           </div>
         </div>
@@ -80,7 +80,7 @@
             and we always try to deliver the best quality spices to them.
           </p>
           <div class="export-enquire-btn">
-            <a href="#">Enquire Now</a>
+            <a href="#"><img src="./assets/images/yellow-enquire-now.png" alt=""></a>
           </div>
         </div>
       </div>
@@ -102,7 +102,7 @@
               traditional expertise and state-of-the-art manufacturing facilities.
             </p>
             <div class="export-enquire-btn">
-              <a href="#">Enquire Now</a>
+              <a href="#"><img src="./assets/images/yellow-enquire-now.png" alt=""></a>
             </div>
           </div>
         </div>
@@ -119,7 +119,7 @@
             Our company prides itself in being one of the largest packaging and labelling houses in India, Aside from processing spices, we also provide packaging solutions to various clients across the country. From designing to manufacturing and labelling, our team of dynmic and dedicated packaging professionals will provide you with end-to-end solutions, catering to all your packaging requirements - be it formatting, choosing the appropriate size and shape, designing, labelling and barcoding. we give you the liberty to choose from our range of packaging services - pillow pouches, mono cartons, boxes, pet jars and grinders. Or you can even have a discussion with our discussion with our designers and marketing professionals to format and design a package. suited to your convenience.
           </p>
           <div class="endtoend-enquire-btn">
-            <a href="#">Enquire Now</a>
+            <a href="#"><img src="./assets/images/services-page-enquire-now-button-4.png" alt=""></a>
           </div>
         </div>
       </div>

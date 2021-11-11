@@ -128,11 +128,7 @@
           </div>
           <div class="view-products-wrapper">
             <a href="#"
-              >View All Products &nbsp;<i
-                class="fa fa-long-arrow-right"
-                aria-hidden="true"
-              ></i
-            ></a>
+              ><img src="./assets/images/index-view-all-products.png" alt=""></a>
           </div>
         </div>
       </div>
@@ -156,7 +152,7 @@
               something that we at Nani Agro have inherited.
             </p>
             <div class="spices-readmore-btn">
-              <a href="#"
+              <a href="./services.php"
                 >Read More &nbsp;<i
                   class="fa fa-long-arrow-right"
                   aria-hidden="true"

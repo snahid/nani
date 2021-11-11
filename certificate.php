@@ -13,7 +13,7 @@
                <p>We are accredited to world’s leading international food certifications like BRC AA Grade, FDA, FSMA, Kosher, Halal, AGMARK & many others for our state-of-the-art processing unit and striving efforts to meet the requirements of our clientele with utmost transparency and care.</p>
               </div>
               <div class="bottom-right">
-                <a href="#">Enquire Now</a>
+                <a href="#"><img src="./assets/images/certificate-enquire-now.png" alt=""></a>
               </div>
             </div>
           </div>

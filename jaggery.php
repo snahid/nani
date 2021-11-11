@@ -14,7 +14,7 @@
                     It is difficult to beat the special flavor and sweetness of jaggery when it comes to traditional cane sugars. Jaggery is a traditional sugar that is consumed mostly in Southeast Asian countries and the Indian subcontinent. Fresh cane juice and palm sap are used for creating various kinds of jaggery. Along with making your food sweeter, jaggery also cleanses your liver by passing out harmful toxins from your body. Nani processes and supplies high-quality jaggery to customers across the world. Visit our tour to check out various types of jaggery that we offer.                </p>
               </div>
               <div class="bottom-right">
-                <a href="#">Enquire Now</a>
+                <a href="#"><img src="./assets/images/jaggery-enquire-now.png" alt=""></a>
               </div>
             </div>
           </div>
@@ -122,7 +122,7 @@
      <div class="language-wrapper">
         <div class="container">
           <div class="languageinner">
-            <h2 class="language-title">Jaggery In other Languages</h2>
+            <h2 class="language-title jaggery-language-title">Jaggery In other Languages</h2>
             <div class="language-inner-wrapper jaggery-language-inner-wrapper">
               <div class="language">
                   <h4>English: <span>Jaggery</span></h4>

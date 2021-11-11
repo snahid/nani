@@ -20,7 +20,7 @@
                 </p>
               </div>
               <div class="bottom-right">
-                <a href="#">Enquire Now</a>
+                <a href="#"><img src="./assets/images/quality-enquire-now.png" alt=""></a>
               </div>
             </div>
           </div>

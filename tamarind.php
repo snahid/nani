@@ -14,7 +14,7 @@
                         </p>
                     </div>
                     <div class="bottom-right">
-                        <a href="#">Enquire Now</a>
+                        <a href="#"><img src="./assets/images/tamarind-nquire-now.png" alt=""></a>
                     </div>
                   </div>
               </div>

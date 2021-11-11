@@ -15,7 +15,7 @@
                 </p>
               </div>
               <div class="bottom-right">
-                <a href="#">Enquire Now</a>
+                <a href="#"><img src="./assets/images/pepper-enquire-now.png" alt=""></a>
               </div>
             </div>
           </div>
@@ -273,10 +273,10 @@
                 </div>
                 <div class="harvest-bottom">
                     <div class="harvest-bottom-left">
-                        <p>Cardamom is generally harvested during the month of Jan, Sept, Nov, Dec. Looking forward to import cardamom ? Plan your delivery here.</p>
+                        <p>Cardamom is generally harvested during the month of Feb, Mar, Nov, Dec. Looking forward to import cardamom ? Plan your delivery here.</p>
                     </div>
                     <div class="harvest-bottom-right">
-                        <a href="#">View More</a>
+                        <a href="#"><img src="./assets/images/pepper-VIEW-MORE.png" alt=""></a>
                     </div>
                 </div>
             </div>
