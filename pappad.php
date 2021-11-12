@@ -103,7 +103,7 @@
               <div class="private-label-inner-left">
                   <h2 class="label-title">Private Label Packaging</h2>
                   <img src="./assets/images/product.png" alt="">
-                  <p>In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface..
+                  <p>From designing to manufacturing and labelling, our team will provide you with end-to-end solutions, catering to all your packaging requirements - be it formatting, choosing the appropriate size and shape, designing, labelling and barcoding.
                   </p>
               </div>
               <div class="private-label-inner-right">
@@ -140,8 +140,8 @@
     <!-- Private Label  -->
 
 
-    <!-- Enquire Now Wrapper  -->
-    <div class="enquire-wrapper">
+     <!-- Enquire Now Wrapper  -->
+     <div class="enquire-wrapper">
         <div class="container">
           <div class="enquire pappad-enquire">
             <h2 class="enquire-title">Enquire Now</h2>
@@ -175,7 +175,13 @@
                     </form>
                 </div>
                 <div class="enquire-inner-right">
-                    <img src="./assets/images/mobile.png" alt="">
+                    <div class="schedule-inner-right">
+                        <div class="schedule-mobile">
+                            <img src="./assets/images/mobile-image.jpg" alt="" />
+                            <h3>Schedule<br />Your<br />Discovery<br />Call</h3>
+                             <a href="https://calendly.com/naniagrofood/nani-agro-food" target="_blank">Schedule now</a>
+                        </div>
+                    </div>
                 </div>
             </div>
           </div>

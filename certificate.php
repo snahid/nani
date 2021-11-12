@@ -28,29 +28,19 @@
             <div class="certificate-inner">
                 <div class="certificate">
                     <div class="certificate-box">
-                        <img src="./assets/images/Certi-1.jpg" alt="">
-                        <div class="certificate-view">
-                            <a href="#">View Certificate</a>
-                        </div>
-                        
+                        <img src="./assets/images/Certi-1.jpg" alt="">                                             
                     </div>
                     <div class="certificate-box">
-                        <img src="./assets/images/Certi-3.jpg" alt="">
-                        <div class="certificate-view">
-                            <a href="#">View Certificate</a>
-                        </div>
+                        <img src="./assets/images/Certi-3.jpg" alt="">                      
                     </div>
                     <div class="certificate-box">
-                        <img src="./assets/images/Certi-2.jpg" alt="">
-                        <div class="certificate-view">
-                            <a href="#">View Certificate</a>
-                        </div>
+                        <img src="./assets/images/Certi-2.jpg" alt="">                     
                     </div>
                     <div class="certificate-box">
                         <img src="./assets/images/certi4.jpg" alt="">
-                        <div class="certificate-view">
+                        <!-- <div class="certificate-view">
                             <a href="#">View Certificate</a>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>
@@ -66,105 +56,79 @@
                     <div class="logo">
                         <img src="./assets/images/logo-1.jpg" alt="">
                     </div>
-                    <div class="logo-view">
-                        <a href="#">View Certificate</a>
-                    </div>
+                  
                 </div>
                 <div class="logo-box">
                     <div class="logo">
                         <img src="./assets/images/logo-2.jpg" alt="">
                     </div>
-                    <div class="logo-view">
-                        <a href="#">View Certificate</a>
-                    </div>
+                 
                 </div>
                 <div class="logo-box">
                     <div class="logo">
                         <img src="./assets/images/logo-3.jpg" alt="">
                     </div>
-                    <div class="logo-view">
-                        <a href="#">View Certificate</a>
-                    </div>
+                  
                 </div>
                 <div class="logo-box">
                     <div class="logo">
                         <img src="./assets/images/logo-4.jpg" alt="">
                     </div>
-                    <div class="logo-view">
-                        <a href="#">View Certificate</a>
-                    </div>
+                  
                 </div>
                 <div class="logo-box">
                     <div class="logo">
                         <img src="./assets/images/logo-5.jpg" alt="">
                     </div>
-                    <div class="logo-view">
-                        <a href="#">View Certificate</a>
-                    </div>
+                   
                 </div>
                 <div class="logo-box">
                     <div class="logo">
                         <img src="./assets/images/logo-6.jpg" alt="">
                     </div>
-                    <div class="logo-view">
-                        <a href="#">View Certificate</a>
-                    </div>
+                   
                 </div>
                 <div class="logo-box">
                     <div class="logo">
                         <img src="./assets/images/logo-7.jpg" alt="">
                     </div>
-                    <div class="logo-view">
-                        <a href="#">View Certificate</a>
-                    </div>
+                   
                 </div>
                 <div class="logo-box">
                     <div class="logo">
                         <img src="./assets/images/logo-8.jpg" alt="">
                     </div>
-                    <div class="logo-view">
-                        <a href="#">View Certificate</a>
-                    </div>
+                  
                 </div>
                 <div class="logo-box">
                     <div class="logo">
                         <img src="./assets/images/logo-9.jpg" alt="">
                     </div>
-                    <div class="logo-view">
-                        <a href="#">View Certificate</a>
-                    </div>
+                  
                 </div>
                   <div class="logo-box">
                     <div class="logo">
                         <img src="./assets/images/logo-10.jpg" alt="">
                     </div>
-                    <div class="logo-view">
-                        <a href="#">View Certificate</a>
-                    </div>
+                  
                 </div>
                 <div class="logo-box">
                     <div class="logo">
                         <img src="./assets/images/logo-11.jpg" alt="">
                     </div>
-                    <div class="logo-view">
-                        <a href="#">View Certificate</a>
-                    </div>
+                  
                 </div>
                 <div class="logo-box">
                     <div class="logo">
                         <img src="./assets/images/logo-12.jpg" alt="">
                     </div>
-                    <div class="logo-view">
-                        <a href="#">View Certificate</a>
-                    </div>
+                  
                 </div>
                 <div class="logo-box">
                     <div class="logo">
                         <img src="./assets/images/logo-13.jpg" alt="">
                     </div>
-                    <div class="logo-view">
-                        <a href="#">View Certificate</a>
-                    </div>
+                  
                 </div>
             </div>
         </div>

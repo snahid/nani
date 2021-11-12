@@ -97,7 +97,7 @@
                       051,<br/>Tamil Nadu, India.
                   </p>
                   <div class="view-map-btn">
-                    <a href="#">View on Map</a>
+                    <a href="https://goo.gl/maps/VpCxSZQMvCtdkTYQ8" target="_blank">View on Map</a>
                 </div>
                 </div>
               </div>
@@ -114,16 +114,16 @@
                     <img src="./assets/images/call-.png" alt="">
                 </div>
                 <div class="address-right">
-                  <p>+91 424 221 7126</p>
+                  <p>+91 93332 60000</p>
                 </div>
               </div>
               <div class="sociallink-wrapper">
-                  <a href="#" class="facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-                  <a href="#" class="instagram"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-                  <a href="#" class="twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-                  <a href="#" class="youtube"><i class="fa fa-youtube-play" aria-hidden="true"></i></a>
-                  <a href="#" class="linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
-                  <a href="#" class="pinterest"><i class="fa fa-pinterest-p" aria-hidden="true"></i></a>
+                  <a href="https://www.facebook.com/naniagro" target="_blank" class="facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                  <a href="https://www.instagram.com/naniagro/" target="_blank" class="instagram"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+                  <a href="https://twitter.com/naniagro" target="_blank" class="twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                  <a href="https://www.youtube.com/channel/UCDDbnElVRu9oCJf0tRS3YHA" target="_blank" class="youtube"><i class="fa fa-youtube-play" aria-hidden="true"></i></a>
+                  <a href="https://www.linkedin.com/company/naniagro/" target="_blank" class="linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                  <a href="https://in.pinterest.com/naniagro/_saved/" target="_blank" class="pinterest"><i class="fa fa-pinterest-p" aria-hidden="true"></i></a>
               </div>
             </div>
           </div>

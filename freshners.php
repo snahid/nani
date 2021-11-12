@@ -103,9 +103,7 @@
               <h2 class="label-title">Private Label Packaging</h2>
               <img src="./assets/images/product.png" alt="" />
               <p>
-                In publishing and graphic design, Lorem ipsum is a placeholder
-                text commonly used to demonstrate the visual form of a document
-                or a typeface..
+              From designing to manufacturing and labelling, our team will provide you with end-to-end solutions, catering to all your packaging requirements - be it formatting, choosing the appropriate size and shape, designing, labelling and barcoding.
               </p>
             </div>
             <div class="private-label-inner-right">
@@ -144,68 +142,52 @@
     </div>
     <!-- Private Label  -->
 
-    <!-- Enquire Now Wrapper  -->
-    <div class="enquire-wrapper">
-      <div class="container">
-        <div class="enquire pappad-enquire">
-          <h2 class="enquire-title">Enquire Now</h2>
-          <div class="enquire-inner-wrapper">
-            <div class="enquire-inner-left">
-              <form action="" method="post">
-                <div class="row">
-                  <div class="col">
-                    <input
-                      type="text"
-                      class="form-control"
-                      placeholder="NAME"
-                    />
-                  </div>
-                  <div class="col">
-                    <input
-                      type="text"
-                      class="form-control"
-                      placeholder="E-MAIL"
-                    />
-                  </div>
-                </div>
-                <div class="row">
-                  <div class="col">
-                    <input
-                      type="tel"
-                      class="form-control"
-                      placeholder="PHONE"
-                    />
-                  </div>
-                  <div class="col">
-                    <input
-                      type="text"
-                      class="form-control"
-                      placeholder="COUNTRY"
-                    />
-                  </div>
-                </div>
-                <div class="form-group">
-                  <textarea
-                    class="form-control"
-                    placeholder="MESSAGE"
-                    id="exampleFormControlTextarea1"
-                    rows="6"
-                  ></textarea>
-                </div>
+     <!-- Enquire Now Wrapper  -->
+     <div class="enquire-wrapper">
+        <div class="container">
+          <div class="enquire pappad-enquire">
+            <h2 class="enquire-title">Enquire Now</h2>
+            <div class="enquire-inner-wrapper">
+                <div class="enquire-inner-left">
+                    <form action="" method="post">
+                        <div class="row">
+                            <div class="col">
+                              <input type="text" class="form-control" placeholder="NAME">
+                            </div>
+                            <div class="col">
+                              <input type="text" class="form-control" placeholder="E-MAIL">
+                            </div>
+                          </div>
+                          <div class="row">
+                            <div class="col">
+                              <input type="tel" class="form-control" placeholder="PHONE">
+                            </div>
+                            <div class="col">
+                              <input type="text" class="form-control" placeholder="COUNTRY">
+                            </div>
+                          </div>
+                          <div class="form-group">
+                            <textarea class="form-control"      placeholder="MESSAGE" id="exampleFormControlTextarea1" rows="6"></textarea>
+                          </div>
 
-                <div class="submit-btn-wrapper">
-                  <button type="submit" class="submit-btn">
-                    Submit Details
-                  </button>
+                          <div class="submit-btn-wrapper">
+                              <button type="submit" class="submit-btn">Submit Details</button>
+                          </div>
+                        
+                    </form>
                 </div>
-              </form>
-            </div>
-            <div class="enquire-inner-right">
-              <img src="./assets/images/mobile.png" alt="" />
+                <div class="enquire-inner-right">
+                    <div class="schedule-inner-right">
+                        <div class="schedule-mobile">
+                            <img src="./assets/images/mobile-image.jpg" alt="" />
+                            <h3>Schedule<br />Your<br />Discovery<br />Call</h3>
+                             <a href="https://calendly.com/naniagrofood/nani-agro-food" target="_blank">Schedule now</a>
+                        </div>
+                    </div>
+                </div>
             </div>
           </div>
         </div>
-      </div>
     </div>
     <!-- Enquire Now Wrapper  -->
 

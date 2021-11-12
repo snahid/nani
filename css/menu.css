@@ -146,6 +146,10 @@ ul ul a {
   font-family: "Poppins", sans-serif;
 }
 
+.viewall{
+  color: #F8F848 !important;
+}
+
 ul.CTAs {
   padding: 20px;
 }

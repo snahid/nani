@@ -138,7 +138,13 @@
                     </form>
                 </div>
                 <div class="enquire-inner-right">
-                    <img src="./assets/images/mobile.png" alt="">
+                    <div class="schedule-inner-right">
+                        <div class="schedule-mobile">
+                            <img src="./assets/images/mobile-image.jpg" alt="" />
+                            <h3>Schedule<br />Your<br />Discovery<br />Call</h3>
+                             <a href="https://calendly.com/naniagrofood/nani-agro-food" target="_blank">Schedule now</a>
+                        </div>
+                    </div>
                 </div>
             </div>
           </div>

@@ -11,12 +11,7 @@
             <div class="bottom-inner-wrapper">
               <div class="bottom-left">
                 <p>
-                  Lorem Ipsum is simply dummy text of the printing and
-                  typesetting industry. Lorem Ipsum has been the industry's
-                  standard dummy text ever since the 1500s, when an unknown
-                  printer took a galley of type and scrambled it to make a type
-                  specimen book. when an unknown printer took a galley of type
-                  and scrambled it to make a type specimen book.
+                To retain the quality of the spices, we have established a robust procurement process and quality control system. We handpick the best quality spices from across the country while keeping the season in mind. Every year we source more than 70000 tons of turmeric and 15000 tons of other raw materials for processing. We source all the spices following the specifications of our state-of-the-art laboratory.
                 </p>
               </div>
               <div class="bottom-right">

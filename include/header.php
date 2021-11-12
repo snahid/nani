@@ -87,7 +87,7 @@
               class="dropdown-toggle">
               About</a>
             <ul class="collapse list-unstyled" id="aboutSubmenu">
-              <li><a href="./about.php">About</a></li>
+              <li><a href="./about.php">About Company</a></li>
               <li><a href="./brand.php">Our Brands</a></li>
             </ul>
           </li>
@@ -123,6 +123,7 @@
             <li><a href="./grinders.php">Grinders</a></li>
             <li><a href="./delicacy.php">Delicacies</a></li>
             <li><a href="./miscellaneous.php">Miscellaneous products</a></li>   
+            <li><a href="#" class="viewall">View All</a></li>   
             </ul>
           </li>
           <li>
@@ -133,11 +134,11 @@
             >Services
           </a>
           <ul class="collapse list-unstyled" id="serviceSubmenu">
-            <li><a href="./services.php">Services</a></li>
             <li><a href="./services.php#turmericExport">Turmeric Export</a></li>
             <li><a href="./services.php#spicefoodExport">Spice & Food Export</a></li>
             <li><a href="./services.php#spiceprocessingBlendings">Spice Processing Blending</a></li>
             <li><a href="./services.php#servicePrivate">Private Label Packaging</a></li>
+            <li><a href="#">View All Services</a></li>
           </ul>
           </li>
           <li><a href="./infrastructure.php">Infrastructure</a></li>
@@ -147,7 +148,7 @@
               data-toggle="collapse"
               aria-expanded="false"
               class="dropdown-toggle">
-            Quality Policy
+              Policies
           </a>
           <ul class="collapse list-unstyled" id="qualitySubmenu">
             <li><a href="./quality_policy.php">Quality Policy</a></li>
@@ -243,11 +244,7 @@
                     <div class="content">
                       <div class="myrow">
                         <ul>
-                          <li><a href="./about.php">About</a></li>
-                        </ul>
-                      </div>
-                      <div class="myrow">
-                        <ul>
+                          <li><a href="./about.php">About Company</a></li>
                           <li><a href="./brand.php">Our Brands</a></li>
                         </ul>
                       </div>
@@ -302,7 +299,8 @@
                         </li>
                         <li><a href="./grinders.php">Grinders</a></li>
                         <li><a href="./delicacy.php">Delicacies</a></li>
-                        <li><a href="./miscellaneous.php">Miscellaneous products</a></li>         
+                        <li><a href="./miscellaneous.php">Miscellaneous products</a></li>
+                        <li><a href="#" class="viewall">View All</a></li>         
                         </ul>
                       </div>
                     </div>
@@ -315,37 +313,28 @@
                     <div class="content">
                       <div class="myrow">
                         <ul>
-                          <li><a href="./services.php">Services</a></li>
                           <li><a href="./services.php#turmericExport">Turmeric Export</a></li>
                           <li><a href="./services.php#spicefoodExport">Spice & Food Export</a></li>
-                        </ul>
-                    </div>
-                    <div class="myrow">
-                        <ul>
                           <li><a href="./services.php#spiceprocessingBlendings">Spice Processing & Blending</a></li>
                           <li><a href="./services.php#servicePrivate">Private Label Packaging</a>
-                        
                         </li>
+                        <li><a href="#">View All Services</a></li>
                         </ul>
-                    </div>
+                      </div>
                     </div>
                 </div>
                   <!-- Submenu  -->
                 </li>
                 <li><a href="./infrastructure.php">Infrastructure</a></li>
                 <li><a href="./sustainability.php">Sustainability</a></li>
-                <li class="mydropdownIocn qualitydropdown"><a href="javascript:void(0)">Quality Policy <i class="fa fa-caret-down" aria-hidden="true"></i></a>
+                <li class="mydropdownIocn qualitydropdown"><a href="javascript:void(0)">Policies <i class="fa fa-caret-down" aria-hidden="true"></i></a>
                    <!-- Submenu  -->
                    <div class="quality-box">
                     <div class="content">
                       <div class="myrow">
                         <ul>
-                          <li><a href="./quality_policy.php">Quality Policy</a></li>                      
-                        </ul>
-                      </div>
-                      <div class="myrow">
-                        <ul>
-                          <li><a href="./certificate.php">Certificates</a></li>
+                          <li><a href="./quality_policy.php">Quality Policy</a></li> 
+                          <li><a href="./certificate.php">Certificates</a></li>                     
                         </ul>
                       </div>
                     </div>
@@ -410,11 +399,7 @@
                     <div class="content">
                       <div class="myrow">
                         <ul>
-                          <li><a href="./about.php">About</a></li>
-                        </ul>
-                      </div>
-                      <div class="myrow">
-                        <ul>
+                          <li><a href="./about.php">About Company</a></li>
                           <li><a href="./brand.php">Our Brands</a></li>
                         </ul>
                       </div>
@@ -469,7 +454,8 @@
                         </li>
                         <li><a href="./grinders.php">Grinders</a></li>
                         <li><a href="./delicacy.php">Delicacies</a></li>
-                        <li><a href="./miscellaneous.php">Miscellaneous products</a></li>         
+                        <li><a href="./miscellaneous.php">Miscellaneous products</a></li> 
+                        <li><a href="#" class="viewall">View All</a></li>         
                         </ul>
                       </div>
                   </div>
@@ -482,17 +468,12 @@
                     <div class="content">
                       <div class="myrow">
                         <ul>
-                          <li><a href="./services.php">Services</a></li>
                           <li><a href="./services.php#turmericExport">Turmeric Export</a></li>
                           <li><a href="./services.php#spicefoodExport">Spice & Food Export</a></li>
-                        </ul>
-                    </div>
-                    <div class="myrow">
-                        <ul>
                           <li><a href="./services.php#spiceprocessingBlendings">Spice Processing & Blending</a></li>
                           <li><a href="./services.php#servicePrivate">Private Label Packaging</a>
-                        
                         </li>
+                        <li><a href="#">View All Services</a></li>
                         </ul>
                     </div>
                     </div>
@@ -501,18 +482,14 @@
                 </li>
               <li><a href="./infrastructure.php">Infrastructure</a></li>
               <li><a href="./sustainability.php">Sustainability</a></li>
-              <li class="mydropdownIocn qualitydropdown"><a href="javascript:void(0)">Quality Policy <i class="fa fa-caret-down" aria-hidden="true"></i></a>
+              <li class="mydropdownIocn qualitydropdown"><a href="javascript:void(0)">Policies <i class="fa fa-caret-down" aria-hidden="true"></i></a>
                    <!-- Submenu  -->
                    <div class="quality-box">
                     <div class="content">
                       <div class="myrow">
                         <ul>
-                          <li><a href="./quality_policy.php">Quality Policy</a></li>                      
-                        </ul>
-                      </div>
-                      <div class="myrow">
-                        <ul>
-                          <li><a href="./certificate.php">Certificates</a></li>
+                          <li><a href="./quality_policy.php">Quality Policy</a></li> 
+                          <li><a href="./certificate.php">Certificates</a></li>                     
                         </ul>
                       </div>
                     </div>

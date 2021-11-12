@@ -178,7 +178,7 @@
               <div class="private-label-inner-left">
                   <h2 class="label-title">Private Label Packaging</h2>
                   <img src="./assets/images/product.png" alt="">
-                  <p>In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface..
+                  <p>From designing to manufacturing and labelling, our team will provide you with end-to-end solutions, catering to all your packaging requirements - be it formatting, choosing the appropriate size and shape, designing, labelling and barcoding.
                   </p>
               </div>
               <div class="private-label-inner-right">
@@ -205,10 +205,10 @@
                   <!-- Specification Box  -->
                   <!-- Specification Box  -->
                   <div class="specification-wrapper">
-                      <div class="specification-left specification-yellow capacity">
+                      <div class="specification-left specification-yellow turmeric-capacity">
                           <p>Capacity</p>
                       </div>
-                      <div class="specification-right specification-yellow">
+                      <div class="specification-right specification-yellow capacity-right">
                           <p>Turmeric Whole - 300MT/day</p>
                           <p>Turmeric Powder - 80MT/day</p>
                       </div>
@@ -219,7 +219,7 @@
                       <div class="specification-left specification-white pack">
                           <p>Pack Size</p>
                       </div>
-                      <div class="specification-right specification-white">
+                      <div class="specification-right specification-white weight-right">
                           <p>10g, 20g, 50g, 100g, 200g,<br/>500g, 1kg, 5kg, 10kg, 25kg</p>
                       </div>
                   </div>
@@ -338,7 +338,7 @@
                 </div>
                 <div class="harvest-bottom">
                     <div class="harvest-bottom-left">
-                        <p>Cardamom is generally harvested during the month of Jan, Sept, Nov, Dec. Looking forward to import cardamom ? Plan your delivery here.</p>
+                        <p>Turmeric is generally harvested during the month of January, February and March. Looking forward to import turmeric? Plan your delivery here.</p>
                     </div>
                     <div class="harvest-bottom-right">
                         <a href="#">View More</a>
@@ -427,7 +427,13 @@
                     </form>
                 </div>
                 <div class="enquire-inner-right">
-                    <img src="./assets/images/mobile.png" alt="">
+                    <div class="schedule-inner-right">
+                        <div class="schedule-mobile">
+                            <img src="./assets/images/mobile-image.jpg" alt="" />
+                            <h3>Schedule<br />Your<br />Discovery<br />Call</h3>
+                             <a href="https://calendly.com/naniagrofood/nani-agro-food" target="_blank">Schedule now</a>
+                        </div>
+                    </div>
                 </div>
             </div>
           </div>

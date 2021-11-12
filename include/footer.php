@@ -21,10 +21,10 @@
                       Medu, R.S Road, Chennimalai,<br/> Perundurai (TK), Erode - 638
                       051,<br/>Tamil Nadu, India.
                     </p>
-                    <a href="#" target="_blank">View on Map</a>
+                    <a href="https://goo.gl/maps/VpCxSZQMvCtdkTYQ8" target="_blank">View on Map</a>
                   </div>
                 </div>
-                <div class="address-box">
+                <div class="address-box info-box">
                   <div class="icon">
                     <i class="fa fa-envelope" aria-hidden="true"></i>
                   </div>
@@ -41,22 +41,21 @@
                   </div>
                 </div>
                 <div class="social-link">
-                  <a href="#"
+                  <a href="https://www.facebook.com/naniagro" target="_blank"
                     ><i class="fa fa-facebook" aria-hidden="true"></i
                   ></a>
-                  <a href="#"
-                    ><i class="fa fa-youtube-play" aria-hidden="true"></i
-                  ></a>
-                  <a href="#"
+                  <a href="https://www.instagram.com/naniagro/" target="_blank"
+                    ><i class="fa fa-instagram" aria-hidden="true"></i></a>
+                  <a href="https://www.linkedin.com/company/naniagro/" target="_blank"
                     ><i class="fa fa-linkedin" aria-hidden="true"></i
                   ></a>
-                  <a href="#"
+                  <a href="https://in.pinterest.com/naniagro/_saved/" target="_blank"
                     ><i class="fa fa-pinterest-p" aria-hidden="true"></i
                   ></a>
-                  <a href="#"
+                  <a href="https://twitter.com/naniagro" target="_blank"
                     ><i class="fa fa-twitter" aria-hidden="true"></i>
                   </a>
-                  <a href="#"
+                  <a href="https://www.youtube.com/channel/UCDDbnElVRu9oCJf0tRS3YHA" target="_blank"
                     ><i class="fa fa-youtube-play" aria-hidden="true"></i
                   ></a>
                 </div>
@@ -121,15 +120,16 @@
                   <div class="link-section">
                     <div class="linkbox">
                       <ul>
-                        <li><a href="./about.php">About</a></li>
+                        <li><a href="./about.php">About Company</a></li>
                         <li>
                           <a href="./sustainability.php">Sustainability</a>
                         </li>
+                        <li><a href="./certificate.php">Certificates</a></li>
                       </ul>
                     </div>
                     <div class="linkbox">
                       <ul>
-                        <li><a href="#">Products</a></li>
+                        <li><a href="./brand.php">Our Brands</a></li>
                         <li><a href="./quality_policy.php">Quality Policy</a></li>
                       </ul>
                     </div>

@@ -56,7 +56,7 @@
               <div class="private-label-inner-left">
                   <h2 class="label-title">Private Label Packaging</h2>
                   <img src="./assets/images/product.png" alt="">
-                  <p>In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface..
+                  <p>From designing to manufacturing and labelling, our team will provide you with end-to-end solutions, catering to all your packaging requirements - be it formatting, choosing the appropriate size and shape, designing, labelling and barcoding.
                   </p>
               </div>
               <div class="private-label-inner-right">
@@ -112,6 +112,110 @@
     </div>
     <!-- Private Label  -->
 
+     <!-- Harvest Calendar  -->
+     <div class="harvest-calender-wrapper">
+      <div class="container">
+          <div class="harvest-inner-wrapper">
+              <h2 class="harvest-title">Harvest Calendar</h2>
+              <div class="month-wrapper">
+                  <!-- Month  -->
+                  <div class="month month-yellow">
+                      <div class="month-name">
+                          <h2>Jan</h2>
+                      </div>
+                  </div>
+                  <!-- Month  -->
+                   <!-- Month  -->
+                   <div class="month month-red">
+                      <div class="month-name">
+                          <h2>Feb</h2>
+                      </div>
+                  </div>
+                  <!-- Month  -->
+                   <!-- Month  -->
+                   <div class="month month-red">
+                      <div class="month-name">
+                          <h2>Mar</h2>
+                      </div>
+                  </div>
+                  <!-- Month  -->
+                   <!-- Month  -->
+                   <div class="month month-red">
+                      <div class="month-name">
+                          <h2>Apr</h2>
+                      </div>
+                  </div>
+                  <!-- Month  -->
+                   <!-- Month  -->
+                   <div class="month month-red">
+                      <div class="month-name">
+                          <h2>May</h2>
+                      </div>
+                  </div>
+                  <!-- Month  -->
+                   <!-- Month  -->
+                   <div class="month month-red">
+                      <div class="month-name">
+                          <h2>Jun</h2>
+                      </div>
+                  </div>
+                  <!-- Month  -->
+                   <!-- Month  -->
+                   <div class="month month-yellow">
+                      <div class="month-name">
+                          <h2>Jul</h2>
+                      </div>
+                  </div>
+                  <!-- Month  -->
+                   <!-- Month  -->
+                   <div class="month month-yellow">
+                      <div class="month-name">
+                          <h2>Aug</h2>
+                      </div>
+                  </div>
+                  <!-- Month  -->
+                   <!-- Month  -->
+                   <div class="month month-yellow">
+                      <div class="month-name">
+                          <h2>Sep</h2>
+                      </div>
+                  </div>
+                  <!-- Month  -->
+                   <!-- Month  -->
+                   <div class="month month-yellow">
+                      <div class="month-name">
+                          <h2>Oct</h2>
+                      </div>
+                  </div>
+                  <!-- Month  -->
+                   <!-- Month  -->
+                   <div class="month month-yellow">
+                      <div class="month-name">
+                          <h2>Nov</h2>
+                      </div>
+                  </div>
+                  <!-- Month  -->
+                   <!-- Month  -->
+                   <div class="month month-yellow">
+                      <div class="month-name">
+                          <h2>Dec</h2>
+                      </div>
+                  </div>
+                  <!-- Month  -->
+              </div>
+              <div class="harvest-bottom">
+                  <div class="harvest-bottom-left">
+                      <p>Tamarind is generally harvested during the month of February, March, April, May and June. Looking forward to import tamarind? Plan your delivery here.</p>
+                  </div>
+                  <div class="harvest-bottom-right">
+                      <a href="#"><img src="./assets/images/pepper-VIEW-MORE.png" alt=""></a>
+                  </div>
+              </div>
+          </div>
+      </div>
+      </div>
+    <!-- Harvest Calendar  -->
+
 
     <!-- Language  -->
     <div class="language-wrapper">
@@ -156,8 +260,8 @@
     </div>
     <!-- Language  -->
 
-    <!-- Enquire Now Wrapper  -->
-    <div class="enquire-wrapper">
+     <!-- Enquire Now Wrapper  -->
+     <div class="enquire-wrapper">
         <div class="container">
           <div class="enquire">
             <h2 class="enquire-title">Enquire Now</h2>
@@ -191,7 +295,13 @@
                     </form>
                 </div>
                 <div class="enquire-inner-right">
-                    <img src="./assets/images/mobile.png" alt="">
+                    <div class="schedule-inner-right">
+                        <div class="schedule-mobile">
+                            <img src="./assets/images/mobile-image.jpg" alt="" />
+                            <h3>Schedule<br />Your<br />Discovery<br />Call</h3>
+                             <a href="https://calendly.com/naniagrofood/nani-agro-food" target="_blank">Schedule now</a>
+                        </div>
+                    </div>
                 </div>
             </div>
           </div>
