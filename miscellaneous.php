@@ -14,7 +14,7 @@
                         </p>
                     </div>
                     <div class="bottom-right">
-                        <a href="#"><img src="./assets/images/miscellaneous-enquire-now.png" alt=""></a>
+                        <a href="#miscellaneousenquire"><img src="./assets/images/miscellaneous-enquire-now.png" alt=""></a>
                     </div>
                   </div>
               </div>
@@ -186,7 +186,7 @@
 
 
     <!-- Enquire Now Wrapper  -->
-    <div class="enquire-wrapper">
+    <div class="enquire-wrapper" id="miscellaneousenquire">
         <div class="container">
           <div class="enquire pappad-enquire">
             <h2 class="enquire-title">Enquire Now</h2>

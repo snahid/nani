@@ -12,3 +12,74 @@ $font: 'Roboto', sans-serif;
 //Color
 $white: white;
 $black: black;
+
+
+
+
+// Modal 
+.modal{
+    .modal-content{
+        .modal-header{
+            border-bottom: 0px solid transparent;
+        }
+        .modal-body{
+            .modal-contact-form{
+                input[type="text"] {
+                    background-color: #ebe9e9;
+                    border: none;
+                    border-radius: 0;
+                    margin-bottom: 30px;
+                    height: 50px;
+                    color: #000000;
+                    font-size: 16px;
+                }
+
+                input[type="tel"] {
+                    background-color: #ebe9e9;
+                    border: none;
+                    border-radius: 0;
+                    margin-bottom: 30px;
+                    height: 50px;
+                    color: #000000;
+                    font-size: 16px;
+                }
+
+                textarea {
+                    border: none;
+                    border-radius: 0;
+                    background-color: #ebe9e9;
+                    resize: none;
+                    color: #000000;
+                    font-size: 16px;
+                }
+
+                .submit-btn-wrapper {
+                    text-align: center;
+                    margin-top: 30px;
+                    .submit-btn {
+                        border: none;
+                        text-transform: uppercase;
+                        background-color: #bf2a2e;
+                        color: #fff;
+                        font-size: 20px;
+                        font-weight: 500;
+                        transition: all 0.3s ease-in-out;                     
+                        padding: 15px 40px;
+                        border-bottom: 4px solid #861115;
+                        box-shadow: 0px 3px 15px 0px rgba(134, 17, 21, 0.7);
+                        -webkit-box-shadow: 0px 3px 15px 0px rgba(134, 17, 21, 0.7);
+                        -moz-box-shadow: 0px 3px 15px 0px rgba(134, 17, 21, 0.7);
+
+                        &:hover {
+                           transform: translateY(-3px);
+                        }
+                        &:focus{
+                            outline: none
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+// Modal 

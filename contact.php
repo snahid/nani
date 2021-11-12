@@ -19,7 +19,7 @@
                 </p>
               </div>
               <div class="bottom-right">
-                <a href="#"><img src="./assets/images/contact-enqure-now.png" alt=""></a>
+                <a href="#contactenquire"><img src="./assets/images/contact-enqure-now.png" alt=""></a>
               </div>
             </div>
           </div>
@@ -29,7 +29,7 @@
     <!-- Baner Section  -->
 
     <!-- Enquire Now Wrapper  -->
-    <div class="contact-enquire-wrapper">
+    <div class="contact-enquire-wrapper" id="contactenquire">
       <div class="container">
         <div class="enquire pappad-enquire">
           <h2 class="enquire-title contact-enquire-title">Enquire Now</h2>

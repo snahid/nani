@@ -23,7 +23,7 @@
                 </p>
               </div>
               <div class="bottom-right">
-                <a href="#"><img src="./assets/images/rice-enquire-now.png" alt=""></a>
+                <a href="#riceenquire"><img src="./assets/images/rice-enquire-now.png" alt=""></a>
               </div>
             </div>
           </div>
@@ -163,7 +163,7 @@
     <!-- Language  -->
 
       <!-- Enquire Now Wrapper  -->
-      <div class="enquire-wrapper">
+      <div class="enquire-wrapper" id="riceenquire">
         <div class="container">
           <div class="enquire">
             <h2 class="enquire-title">Enquire Now</h2>

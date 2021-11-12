@@ -15,7 +15,7 @@
                 </p>
               </div>
               <div class="bottom-right">
-                <a href="#"><img src="./assets/images/grinder-enquire-now.png" alt=""></a>
+                <a href="#grinderenquire"><img src="./assets/images/grinder-enquire-now.png" alt=""></a>
               </div>
             </div>
           </div>
@@ -182,7 +182,7 @@
     <!-- Private Label  -->
 
     <!-- Enquire Now Wrapper  -->
-    <div class="enquire-wrapper">
+    <div class="enquire-wrapper" id="grinderenquire">
         <div class="container">
           <div class="enquire pappad-enquire">
             <h2 class="enquire-title">Enquire Now</h2>

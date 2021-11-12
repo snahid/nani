@@ -13,7 +13,7 @@
                <p>With diligence, we ensure international standards right from sourcing to processing and delivery. That is what helped us to become one of the preferred exporters that deals with retail private label packaging of Indian ethnic foods with a specialization in spices and spice derivatives. We Export our supreme quality products to 80+ nations including the EU, UK, USA, Canada, Middle East, Africa, and China.</p>
               </div>
               <div class="bottom-right">
-                <a href="#">Enquire Now</a>
+                <a href="javascript:void(0)" data-toggle="modal" data-target="#aboutModalCenter">Enquire Now</a>
               </div>
             </div>
           </div>
@@ -21,6 +21,50 @@
       </div>
     </div>
     <!-- Baner Section  -->
+
+    <!-- Modal -->
+<div class="modal fade" id="aboutModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+       <div class="modal-contact-form">
+        <form action="" method="post">
+
+                <div class="form-group">
+                    <input type="text" class="form-control" placeholder="NAME">
+                </div>
+                <div class="form-group">
+                    <input type="text" class="form-control" placeholder="E-MAIL">
+                </div>
+            
+           
+                <div class="form-group">
+                    <input type="tel" class="form-control" placeholder="PHONE">
+                </div>
+                <div class="form-group">
+                    <input type="text" class="form-control" placeholder="COUNTRY">
+                </div>
+           
+            <div class="form-group">
+                <textarea class="form-control" placeholder="MESSAGE" id="exampleFormControlTextarea1" rows="6"></textarea>
+            </div>
+            <div class="submit-btn-wrapper">
+                <button type="submit" class="submit-btn">Submit Details</button>
+            </div>           
+        </form>
+       </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Modal  -->
+
+
 
     <div class="clients-wrapper">
         <div class="container">

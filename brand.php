@@ -13,7 +13,7 @@
                <p>Our highest quality standards is something that has been passed on from generation to generation, and it is something that we at Nani Agro have inherited. It helped us establish several brands under one roof. Over the years Nani Agro Foods have introduced ATC, Shivank, Abhishek 5001, 501 & Aaditya 501 brands.</p>
               </div>
               <div class="bottom-right">
-                <a href="#"><img src="./assets/images/yellow-enquire-now.png" alt=""></a>
+                <a href="#brandenquire"><img src="./assets/images/yellow-enquire-now.png" alt=""></a>
               </div>
             </div>
           </div>
@@ -65,7 +65,7 @@
 
 
      <!-- Enquire Now Wrapper  -->
-     <div class="enquire-wrapper">
+     <div class="enquire-wrapper" id="brandenquire">
         <div class="container">
           <div class="enquire brand-enquire">
             <h2 class="enquire-title">Enquire Now</h2>

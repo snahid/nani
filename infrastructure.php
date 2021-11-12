@@ -17,7 +17,7 @@
                 </h4>
               </div>
               <div class="bottom-right">
-                <a href="#"><img src="./assets/images/infrastructure-enquire-now.png" alt=""></a>
+                <a href="javascript:void(0)" data-toggle="modal" data-target="#aboutModalCenter"><img src="./assets/images/infrastructure-enquire-now.png" alt=""></a>
               </div>
             </div>
           </div>
@@ -25,6 +25,49 @@
       </div>
     </div>
     <!-- Baner Section  -->
+
+<!-- Modal -->
+<div class="modal fade" id="aboutModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+       <div class="modal-contact-form">
+        <form action="" method="post">
+
+                <div class="form-group">
+                    <input type="text" class="form-control" placeholder="NAME">
+                </div>
+                <div class="form-group">
+                    <input type="text" class="form-control" placeholder="E-MAIL">
+                </div>
+            
+           
+                <div class="form-group">
+                    <input type="tel" class="form-control" placeholder="PHONE">
+                </div>
+                <div class="form-group">
+                    <input type="text" class="form-control" placeholder="COUNTRY">
+                </div>
+           
+            <div class="form-group">
+                <textarea class="form-control" placeholder="MESSAGE" id="exampleFormControlTextarea1" rows="6"></textarea>
+            </div>
+            <div class="submit-btn-wrapper">
+                <button type="submit" class="submit-btn">Submit Details</button>
+            </div>           
+        </form>
+       </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Modal  -->
+
 
     <!-- Infrastructure Para  -->
     <div class="infrastructure-para">
