@@ -320,7 +320,7 @@ body {
     justify-content: space-between;
     background-color: #3c2827;
     transition: background-color 0.4s linear;
-    padding: 8px 5px 0px 20px;
+    padding: 0px 5px 0px 20px;
 
     .scroll-left {
       @media(max-width: 1199px) {
@@ -3110,4 +3110,10 @@ body {
   @media(min-width: 1400px) {
     max-width: 1320px;
   }
+}
+
+
+.linkactive {
+  border-bottom: 3px solid #e18501 !important;
+  background-color: #251b1c !important;
 }

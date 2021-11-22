@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <title>Nani</title>
+    <title><?php echo $title;?></title>
 
     <!-- Fonts  -->
     <link
@@ -123,7 +123,7 @@
             <li><a href="./grinders.php">Grinders</a></li>
             <li><a href="./delicacy.php">Delicacies</a></li>
             <li><a href="./miscellaneous.php">Miscellaneous products</a></li>   
-            <li><a href="#" class="viewall">View All</a></li>   
+            <li><a href="./product_list.php" class="viewall">View All</a></li>   
             </ul>
           </li>
           <li>
@@ -237,7 +237,7 @@
           <div class="scroll-right">
             <div class="navigation-section-inner">
               <ul class="navul">
-                <li class="aboutdropdown">
+                <li class="aboutdropdown <?php if($page=='about'){echo 'linkactive';}?>">
                   <a href="javascript:void(0)">About <i class="fa fa-caret-down" aria-hidden="true"></i></a>
                   <!-- Submenu  -->
                   <div class="about-box">
@@ -252,7 +252,7 @@
                   </div>
                   <!-- Submenu  -->
                 </li>
-                <li class="mydropdownIocn productsdropdown">
+                <li class="mydropdownIocn productsdropdown <?php if($page=='products'){echo 'linkactive';}?>">
                   <a href="javascript:void(0)">Products <i class="fa fa-caret-down" aria-hidden="true"></i></a>
                   <!-- Submenu  -->
                   <div class="products-box">
@@ -300,14 +300,14 @@
                         <li><a href="./grinders.php">Grinders</a></li>
                         <li><a href="./delicacy.php">Delicacies</a></li>
                         <li><a href="./miscellaneous.php">Miscellaneous products</a></li>
-                        <li><a href="#" class="viewall">View All</a></li>         
+                        <li><a href="./product_list.php" class="viewall">View All</a></li>         
                         </ul>
                       </div>
                     </div>
                   </div>
                   <!-- Submenu  -->
                 </li>
-                <li class="mydropdownIocn servicedropdown"><a href="javascript:void(0)">Services <i class="fa fa-caret-down" aria-hidden="true"></i></a>
+                <li class="mydropdownIocn servicedropdown <?php if($page=='services'){echo 'linkactive';}?>"><a href="javascript:void(0)">Services <i class="fa fa-caret-down" aria-hidden="true"></i></a>
                  <!-- Submenu  -->
                  <div class="service-box">
                     <div class="content">
@@ -325,9 +325,9 @@
                 </div>
                   <!-- Submenu  -->
                 </li>
-                <li><a href="./infrastructure.php">Infrastructure</a></li>
-                <li><a href="./sustainability.php">Sustainability</a></li>
-                <li class="mydropdownIocn qualitydropdown"><a href="javascript:void(0)">Policies <i class="fa fa-caret-down" aria-hidden="true"></i></a>
+                <li class="<?php if($page=='infrastructure'){echo 'linkactive';}?>"><a href="./infrastructure.php">Infrastructure</a></li>
+                <li class="<?php if($page=='sustainability'){echo 'linkactive';}?>"><a href="./sustainability.php">Sustainability</a></li>
+                <li class="mydropdownIocn qualitydropdown <?php if($page=='policies'){echo 'linkactive';}?>"><a href="javascript:void(0)">Policies <i class="fa fa-caret-down" aria-hidden="true"></i></a>
                    <!-- Submenu  -->
                    <div class="quality-box">
                     <div class="content">
@@ -341,8 +341,8 @@
                   </div>
                   <!-- Submenu  -->
                 </li>
-                <li><a href="./clients.php">Clients</a></li>
-                <li><a href="./contact.php">Contact</a></li>
+                <li class="<?php if($page=='clients'){echo 'linkactive';}?>"><a href="./clients.php">Clients</a></li>
+                <li class="<?php if($page=='contact'){echo 'linkactive';}?>"><a href="./contact.php">Contact</a></li>
               </ul>
             </div>
           </div>
@@ -392,7 +392,7 @@
         <div class="container">
           <div class="navigation-section-inner">
             <ul class="navul mainnav">
-            <li class="aboutdropdown">
+            <li class="aboutdropdown <?php if($page=='about'){echo 'linkactive';}?>">
                   <a href="javascript:void(0)">About <i class="fa fa-caret-down" aria-hidden="true"></i></a>
                   <!-- Submenu  -->
                   <div class="about-box">
@@ -407,7 +407,7 @@
                   </div>
                   <!-- Submenu  -->
                 </li>
-              <li class="mydropdownIocn productsdropdown">
+              <li class="mydropdownIocn productsdropdown <?php if($page=='products'){echo 'linkactive';}?>">
                 <a href="javascript:void(0)">Products <i class="fa fa-caret-down" aria-hidden="true"></i></a>
                 <!-- Submenu  -->
                 <div class="products-box">
@@ -455,14 +455,14 @@
                         <li><a href="./grinders.php">Grinders</a></li>
                         <li><a href="./delicacy.php">Delicacies</a></li>
                         <li><a href="./miscellaneous.php">Miscellaneous products</a></li> 
-                        <li><a href="#" class="viewall">View All</a></li>         
+                        <li><a href="./product_list.php" class="viewall">View All</a></li>         
                         </ul>
                       </div>
                   </div>
                 </div>
                 <!-- Submenu  -->
               </li>
-              <li class="mydropdownIocn servicedropdown"><a href="javascript:void(0)">Services <i class="fa fa-caret-down" aria-hidden="true"></i></a>
+              <li class="mydropdownIocn servicedropdown <?php if($page=='services'){echo 'linkactive';}?>"><a href="javascript:void(0)">Services <i class="fa fa-caret-down" aria-hidden="true"></i></a>
                  <!-- Submenu  -->
                  <div class="service-box">
                     <div class="content">
@@ -480,9 +480,9 @@
                 </div>
                   <!-- Submenu  -->
                 </li>
-              <li><a href="./infrastructure.php">Infrastructure</a></li>
-              <li><a href="./sustainability.php">Sustainability</a></li>
-              <li class="mydropdownIocn qualitydropdown"><a href="javascript:void(0)">Policies <i class="fa fa-caret-down" aria-hidden="true"></i></a>
+              <li class="<?php if($page=='infrastructure'){echo 'linkactive';}?>"><a href="./infrastructure.php">Infrastructure</a></li>
+              <li class="<?php if($page=='sustainability'){echo 'linkactive';}?>"><a href="./sustainability.php">Sustainability</a></li>
+              <li class="mydropdownIocn qualitydropdown <?php if($page=='policies'){echo 'linkactive';}?>"><a href="javascript:void(0)">Policies <i class="fa fa-caret-down" aria-hidden="true"></i></a>
                    <!-- Submenu  -->
                    <div class="quality-box">
                     <div class="content">
@@ -496,8 +496,8 @@
                   </div>
                   <!-- Submenu  -->
                 </li>
-              <li><a href="./clients.php">Clients</a></li>
-              <li><a href="./contact.php">Contact</a></li>
+              <li class="<?php if($page=='clients'){echo 'linkactive';}?>"><a href="./clients.php">Clients</a></li>
+              <li class="<?php if($page=='contact'){echo 'linkactive';}?>"><a href="./contact.php">Contact</a></li>
             </ul>
           </div>
         </div>

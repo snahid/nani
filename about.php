@@ -1,4 +1,6 @@
   <?php 
+  $page = 'about';
+  $title='About Us :: Nani Agro Foods Pvt. Ltd.';
     include "include/header.php";
   ?>
 
@@ -6,6 +8,7 @@
     <div class="baner-section-wrapper">
       <div class="container">
         <div class="about-baner-inner-wrapper">
+            <img class="banerimage" src="./assets/images/aboutbaner.jpg" alt="">
           <div class="bottom-wrapper">
             <h1>About Us</h1>
             <div class="bottom-inner-wrapper">

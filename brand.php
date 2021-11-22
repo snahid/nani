@@ -1,4 +1,6 @@
 <?php 
+    $page='about';
+    $title='Our Brands :: Nani Agro Foods Pvt. Ltd.';
     include "include/header.php";
   ?>
 
@@ -6,6 +8,7 @@
     <div class="baner-section-wrapper">
       <div class="container">
         <div class="brand-baner-inner-wrapper">
+        <img class="banerimage" src="./assets/images/brand-banner.jpg" alt="">
           <div class="bottom-wrapper">
             <h1>Our Brands</h1>
             <div class="bottom-inner-wrapper">
@@ -72,7 +75,7 @@
             <div class="enquire-inner-wrapper">
                 <div class="enquire-inner-left">
                     <form action="" method="post">
-                        <div class="row">
+                        <div class="row enquirerow">
                             <div class="col">
                               <input type="text" class="form-control" placeholder="NAME">
                             </div>
@@ -80,7 +83,7 @@
                               <input type="text" class="form-control" placeholder="E-MAIL">
                             </div>
                           </div>
-                          <div class="row">
+                          <div class="row enquirerow">
                             <div class="col">
                               <input type="tel" class="form-control" placeholder="PHONE">
                             </div>

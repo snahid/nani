@@ -1,4 +1,6 @@
   <?php
+  $page='';
+    $title = 'Home :: Nani Agro Foods Pvt. Ltd.';
     include "include/header.php";
   ?>
 
@@ -35,7 +37,7 @@
               </div> -->
               </div>
               <div class="carousel-item">
-                <a href="./services#servicePrivate">
+                <a href="./services.php">
                 <img
                 src="./assets/images/slider3.jpg"
                 class="d-block w-100"
@@ -127,7 +129,7 @@
             </div>
           </div>
           <div class="view-products-wrapper">
-            <a href="#"
+            <a href="./product_list.php"
               ><img src="./assets/images/index-view-all-products.png" alt=""></a>
           </div>
         </div>

@@ -108,7 +108,7 @@
                         </li>
                         <li><a href="./grinders.php">Grinders</a></li>
                         <li><a href="./delicacy.php">Delicacies</a></li>
-                        <li><a href="./miscellaneous.php">Miscellaneous products</a></li>                       
+                        <li><a href="./miscellaneous.php">Miscellaneous products</a></li>             
                       </ul>
                     </div>
                   </div>
@@ -135,6 +135,7 @@
                     </div>
                     <div class="linkbox">
                       <ul>
+                      <li><a href="./product_list.php">Products</a></li>          
                         <li><a href="./services.php">Services</a></li>
                         <li><a href="./clients.php">Clients</a></li>
                       </ul>

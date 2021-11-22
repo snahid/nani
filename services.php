@@ -1,4 +1,6 @@
 <?php 
+      $page='services';
+      $title = 'Services :: Nani Agro Foods Pvt. Ltd.';
 	    include "include/header.php";
 	 ?>
 

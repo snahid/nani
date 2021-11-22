@@ -1,4 +1,5 @@
-<?php 
+<?php $page='products';
+$title='Black & White Pepper :: Nani Agro Foods Pvt. Ltd.';
 	    include "include/header.php";
 	 ?>
 
@@ -6,6 +7,7 @@
     <div class="baner-section-wrapper">
       <div class="container">
         <div class="black-baner-inner-wraper">
+        <img class="banerimage" src="./assets/images/blackbanner.jpg" alt="">
           <div class="bottom-wrapper">
             <h1>Black & White Pepper</h1>
             <div class="bottom-inner-wrapper">

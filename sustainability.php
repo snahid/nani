@@ -1,4 +1,5 @@
-<?php 
+<?php $page='sustainability';
+$title = 'Sustainability :: Nani Agro Foods Pvt. Ltd.';
 	    include "include/header.php";
 	 ?>
 

@@ -1,4 +1,5 @@
-<?php 
+<?php $page='products';
+$title='Ground Spices :: Nani Agro Foods Pvt. Ltd.';
 	    include "include/header.php";
 	 ?>
 

@@ -1,4 +1,5 @@
-<?php 
+<?php $page='products';
+$title='Delicacies :: Nani Agro Foods Pvt. Ltd.';
 	    include "include/header.php";
 	 ?>
 

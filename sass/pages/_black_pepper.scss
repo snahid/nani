@@ -15,7 +15,8 @@
     }
 
     @media(max-width: 767px) {
-        min-height: 490px;
+        min-height: 330px;
+        background-image: unset;
     }
 
     .bottom-wrapper {
@@ -23,6 +24,13 @@
         left: 0;
         bottom: 0;
         content: "";
+        @media(max-width: 767px){
+            position: unset;
+            margin-top: -35px;
+        }
+        @media(max-width: 524px){
+            margin-top: -86px;
+        }
 
         h1 {
             color: #000;
@@ -66,6 +74,7 @@
 
                 @media(max-width: 767px) {
                     width: 100%;
+                    background-color: rgba(0, 0, 0, 0.7);
                 }
 
                 p {
@@ -95,7 +104,11 @@
 
                 @media(max-width: 767px) {
                     width: 100%;
-                    padding: 70px 0;
+                    padding: 60px 0;
+                    text-align: center;
+                }
+                @media(max-width: 450px) {
+                    padding: 40px 0;
                 }
 
                 a {
@@ -105,6 +118,14 @@
                     content: "";
                     transform: translate(-50%, -50%);                                     
                     transition: 0.2s ease-in-out;
+                    img{
+                        @media(max-width: 767px){
+                            width: 80%;
+                        }
+                        @media(max-width: 450px){
+                            width: 90%;
+                        }
+                    }
                     &:hover {
                         margin-top: -2px;
                         color: #fffffe;

@@ -765,6 +765,11 @@
                         &:focus{
                             outline: none
                         }
+
+                        @media(max-width: 767px){
+                            font-size: 20px;
+                            padding: 10px 25px;
+                        }
                     }
                 }
             }

@@ -1,4 +1,5 @@
-<?php 
+<?php $page='products';
+$title='Dry fruits & nuts :: Nani Agro Foods Pvt. Ltd.';
 	    include "include/header.php";
 	 ?>
 

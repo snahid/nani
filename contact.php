@@ -1,4 +1,5 @@
-<?php 
+<?php $page='contact';
+$title='Contact :: Nani Agro Foods Pvt. Ltd.';
 	    include "include/header.php";
 	 ?>
 

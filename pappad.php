@@ -1,4 +1,5 @@
-<?php 
+<?php $page='products';
+ $title = 'Pappad & Far Far Products :: Nani Agro Foods Pvt. Ltd.';
 	    include "include/header.php";
 	 ?>
 

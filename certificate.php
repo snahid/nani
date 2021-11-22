@@ -1,4 +1,5 @@
-<?php 
+<?php $page='policies';
+$title='Certificates :: Nani Agro Foods Pvt. Ltd.';
 	    include "include/header.php";
 	 ?>
 

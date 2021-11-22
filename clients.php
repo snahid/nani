@@ -1,4 +1,5 @@
-<?php 
+<?php $page='clients';
+$title='Clients :: Nani Agro Foods Pvt. Ltd.';
 	    include "include/header.php";
 	 ?>
 
